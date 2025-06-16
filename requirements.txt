@@ -1,0 +1,5 @@
+nbqa
+black
+flake8
+pylint
+python-dotenv
