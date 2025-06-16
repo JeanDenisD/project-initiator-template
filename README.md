@@ -1,3 +1,5 @@
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/JeanDenisD/project-initiator-template/generate)
+
 # 🧪 Custom Notebook Linter Template
 
 A reusable Python project template to apply linters and formatters (`pylint`, `black`, `flake8`) to Jupyter notebooks using `nbqa`.
@@ -17,12 +19,10 @@ A reusable Python project template to apply linters and formatters (`pylint`, `b
    ```bash
    pip install -r requirements.txt
    ```
-
 4. Install in dev mode to enable CLI:
    ```bash
    pip install -e .
    ```
-
 5. Run the linter:
    ```bash
    custom-linter

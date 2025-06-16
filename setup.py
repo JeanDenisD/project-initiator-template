@@ -16,7 +16,7 @@ setup(
             "custom-linter=custom_scripts.custom_linter:run_lint_on_notebooks"
         ]
     },
-    author="Your Name",
+    author="Jean-Denis Drane",
     description="A reusable linter for Jupyter notebooks using nbqa.",
     python_requires=">=3.7",
 )
